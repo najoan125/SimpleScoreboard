@@ -1,0 +1,4 @@
+name: SimpleScoreboard
+version: '1.0-SNAPSHOT'
+main: kr.hyfata.simplescoreboard.SimpleScoreboard
+api-version: '1.21'
