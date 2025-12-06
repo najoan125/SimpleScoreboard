@@ -1,11 +1,11 @@
 scoreboard:
   enabled: true
-  title: "&eZERO RPG"
+  title: "&9&l✦ 𝙕𝙀𝙍𝙊 𝘾𝙊𝙉𝙑𝙀𝙍𝙂𝙀𝙉𝘾𝙀 ✦"
   message: |
     
-    \uE023 &f${formattedBalance}
+    &7✧ &f닉네임: &6${nickname}
     
-    &b* &7현재 지역: &f${world}
+    &7✧ &f현재 지역: &f${world}
 
 worlds:
   world: "test"
